@@ -1,0 +1,13 @@
+h1 {
+  font-family: veranda;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+
+p {
+  font-size: 16px;
+  color: Aquamarine;
+  text-decoration: underline;
+}

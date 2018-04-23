@@ -1,3 +1,10 @@
+body {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
 h1 {
   font-family: veranda;
   font-weight: normal;
@@ -6,10 +13,14 @@ h1 {
   color: white;
 }
 
-p {
+.cta {
   font-size: 16px;
   color: Aquamarine;
   text-decoration: underline;
   text-align: center;
   font-weight: bold;
+}
+
+video {
+  object-fit: contain;
 }
